@@ -13,7 +13,7 @@ This is a Solution to the the  [  Order summary card  ](https://www.frontendment
 
 ### Links 
 
-- Live Site URL : [ Order summary card ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/single-grid-component/)
+- Live Site URL : [ Order summary card ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/order-summary-component-main/)
 
 ### Designs 
 
