@@ -37,4 +37,4 @@ This is a Solution to the the  [ Single price grid component ](https://www.front
 
 ### About 
 
-I was started to code just for Fun and now it Becomes my Passion. I am a Frontend Web-developer Working with ReactJS,Javascript,CSS,HTML .
+I was started to code just for Fun and now it Becomes my Passion. I am a Frontend Web-developer Working with ReactJS ,   Javascript , CSS , HTML .
