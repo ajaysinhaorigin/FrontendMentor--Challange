@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Poppins:wght@200;400;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: hsl(0, 0%, 98%);
+}
+.container {
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 4em 0;
+  
+}
+.content {
+    width: 85%;
+    margin: 0 auto;
+}
+.main-text {
+    margin-bottom: 4em;
+}
+.main-text .heading-one {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color:  hsl(234, 12%, 34%);
+}
+.main-text .heading-two {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color:  hsl(234, 12%, 34%);
+}
+.main-text > p {
+    font-size: 0.95rem;
+    margin-top: 0.5em;
+    font-weight: 400;
+    color:  hsl(229, 6%, 66%);
+}
+
+.card {
+    background-color: white;
+    margin-bottom: 1em;
+    border-radius: 0.5em;
+    box-shadow: 0px 2px 9px hsl(229, 6%, 66%);
+    padding: 1.5em 1.5em 8em 1.5em;
+    position: relative;
+}
+.supervisor {
+    border-top: 0.3em solid  hsl(180, 62%, 55%);
+}
+.team-builder {
+    border-top: 0.3em solid hsl(0, 78%, 62%);
+}
+.karma {
+    border-top: 0.3em solid hsl(34, 97%, 64%);
+}
+.calculator {
+    border-top: 0.3em solid  hsl(212, 86%, 64%);
+}
+.card .card-text >h3 {
+    font-size: 1.125rem;
+    font-weight: 600;
+
+    color: hsl(234, 12%, 34%) ;
+}
+.card .card-text > p {
+    font-size: 0.875rem;
+    margin-top: 0.3em;
+    font-weight: 400;
+    color: hsl(229, 6%, 66%) ;
+}
+.card-img {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    padding: 0 1.5em 1.5em 0;
+}
+@media only screen and (min-width:900px) {
+    .container{
+       width: 90%;
+       max-width: 1440px;
+    }
+    .main-text{
+        width: 60%;
+        text-align:center;
+        margin: 0 auto 4em ;
+    }
+
+    .main-text .heading-one {
+        font-size: 2.125rem;
+        font-weight: 400;
+    }
+    .main-text .heading-two {
+        font-size: 2.125rem;
+        font-weight: 600;
+    }
+    .main-text > p {
+        font-size: 1.1rem;
+        margin-top: 1em;
+    }
+    .cards {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 2em;
+
+        align-items: center;
+    }
+    .card {
+        margin-bottom: 0;
+    }
+    .supervisor {
+      grid-row-start: 1;
+      grid-row-end: 3;
+     }
+    .karma {
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    }
+    .calculator{
+        grid-row-start: 1;
+        grid-row-end: 3;
+    }
+   
+}

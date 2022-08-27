@@ -13,7 +13,7 @@ This is a Solution to the the  [ Four card feature section  ](https://www.fronte
 
 ### Links 
 
-- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/single-grid-component/)
+- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/four-card-feature-section-master/)
 
 ### Designs 
 
