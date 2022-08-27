@@ -14,7 +14,7 @@ body {
   margin: 5em;
 }
 .content {
-  max-width:360px;
+  max-width: 375px;
   border-radius: 0.7em;
   overflow: hidden;
 }
