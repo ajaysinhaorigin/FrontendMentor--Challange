@@ -13,7 +13,7 @@ This is a Solution to the the  [ Social proof section  ](https://www.frontendmen
 
 ### Links 
 
-- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/single-grid-component/)
+- Live Site URL : [  Social proof section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/social-proof-section-master/)
 
 ### Designs 
 
