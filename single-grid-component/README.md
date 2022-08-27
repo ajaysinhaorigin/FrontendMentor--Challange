@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component Solution
 
-This is a Solution to the the  [ Single price grid component ](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).Frontend Mentor challenges  helps to improve your coding  skills by building realistic projects.
+This is a Solution to the the  [ Single price grid component ](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges  helps to improve your coding  skills by building realistic projects.
 
 ## Table of contents
 
@@ -22,9 +22,9 @@ This is a Solution to the the  [ Single price grid component ](https://www.front
 
 ### Built with 
 
--Semantic HTML5 markup  
--CSS custom properties  
--Grid
+- Semantic HTML5 markup  
+- CSS custom properties  
+- Grid
 
 ### What I learned 
 
@@ -37,4 +37,4 @@ This is a Solution to the the  [ Single price grid component ](https://www.front
 
 ### About 
 
-I was started to code just for Fun and now it Becomes my Passion. I am a Frontend Web-developer Working with ReactJS,Javascript,CSS,HTML.
+I was started to code just for Fun and now it Becomes my Passion. I am a Frontend Web-developer Working with ReactJS,Javascript,CSS,HTML .
