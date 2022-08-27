@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&family=Big+Shoulders+Display:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color:hsl(210, 46%, 95%);
+}
+.container {
+    max-width: 375px;
+    margin: 0 auto;
+    padding: 4em 1.5em;
+  
+}
+.component{
+    padding: 1.5em ;
+    border-radius: 0.5em;
+    margin-bottom: 1.5em;
+}
+.component-1st {
+    background-image: url(/images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 90% 0%;
+    background-color:  hsl(263, 55%, 52%);
+}
+.component-2nd {
+    background-color:hsl(217, 19%, 35%);
+}
+.component-3rd {
+    background-color:  hsl(0, 0%, 100%) ;
+}
+.component-4th {
+    background-color: hsl(219, 29%, 14%);
+}
+.component-5th {
+    background-color: hsl(0, 0%, 100%);
+}
+
+.flex-item{
+    display: flex;
+    align-items: center;
+    margin-bottom: 1em;
+}
+.flex-item .image {
+    width: 2.2em;
+    
+}
+.flex-item .image > img {
+    width: 100%;
+    border-radius: 50%;
+}
+.flex-item .image-1 > img {
+    width: 100%;
+    border-radius: 50%;
+    border: 0.125em solid hsl(263, 55%, 70%);
+}
+.flex-item .image-4 > img {
+    width: 100%;
+    border-radius: 50%;
+    border: 0.125em solid hsl(263, 55%, 52%);
+}
+.flex-item .intro {
+    margin-left: 1em;
+}
+.flex-item .intro > h2 {
+    font-size: 1rem;
+    font-weight: 500;
+}
+.flex-item .intro > p {
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+.intro-1st > h2 {
+    color:  hsl(0, 0%, 81%);
+}
+.intro-1st > p {
+    color:  hsl(0, 0%, 60%);
+}
+
+.intro-2nd > h2 {
+    color:  hsl(0, 0%, 81%);
+}
+.intro-2nd > p {
+    color:  hsl(0, 0%, 50%);
+}
+
+.intro-3rd > h2 {
+    color: hsl(219, 29%, 14%);
+}
+.intro-3rd > p {
+    color: hsl(219, 29%, 50%);
+}
+
+.intro-4th > h2 {
+    color: hsl(0, 0%, 81%);
+}
+.intro-4th > p{
+    color: hsl(0, 0%, 50%);
+}
+.intro-5th > h2 {
+    color: hsl(219, 29%, 14%);
+}
+.intro-5th > p {
+    color: hsl(219, 29%, 50%);
+}
+
+.content > h1 {
+    font-size: 1.33rem;
+    font-weight: 600;
+    margin-bottom: 1em;
+}
+.content > p {
+    font-size: 0.866rem;
+    font-weight: 500;
+    margin-bottom: 1.3em;
+   
+    line-height: 1.3;
+}
+.content-1st > h1 {
+    color:  hsl(0, 0%, 100%);
+}
+.content-1st > p {
+    color:  hsl(0, 0%, 70%);
+    width: 95%;
+}
+.content-2nd  > h1 {
+    color:  hsl(0, 0%, 75%);
+}
+.content-2nd  > p {
+    color: hsl(0, 0%, 70%);
+}
+.content-3rd  > h1 {
+    color: hsl(217, 19%, 35%);
+}
+.content-3rd > p {
+    color: hsl(219, 29%, 70%);
+}
+.content-4th > h1 {
+    color:  hsl(0, 0%, 100%);
+}
+.content-4th> p {
+    color: hsl(0, 0%, 70%);
+}
+.content-5th > h1 {
+    color:  hsl(217, 19%, 35%);
+}
+.content-5th > p {
+    color:hsl(219, 29%, 70%);
+}
+
+
+@media only screen and (min-width:900px) {
+    .container{
+        width: 80%;
+        max-width: 1024px;
+        display: grid;
+        padding: 5em 1.5em;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        grid-gap: 1em;
+ 
+    }
+    .component{
+        margin-bottom: 0;
+        border-radius: 0.8em;
+    }
+    .component-1st{
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    .content-1st > p {
+        width: 100%;
+    }
+   .component-4th{
+    grid-column-start: 2;
+    grid-column-end: 4;
+   }
+   .component-5th{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 4;
+    grid-column-end: 5;
+   }
+}
