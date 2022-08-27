@@ -31,6 +31,7 @@ This is a Solution to the the  [ Four card feature section  ](https://www.fronte
 
 - CSS Grid 
 - CSS Flex
+- CSS Box-Shadow
 - CSS Media Quary 
 
 ### Author 
