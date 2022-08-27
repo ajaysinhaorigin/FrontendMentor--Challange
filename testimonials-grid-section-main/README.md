@@ -13,7 +13,7 @@ This is a Solution to the the  [ Testimonials grid section  ](https://www.fronte
 
 ### Links 
 
-- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/Testimonials-grid-section/)
+- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/testimonials-grid-section-main/)
 
 ### Designs 
 
