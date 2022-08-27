@@ -7,7 +7,7 @@ This is a Solution to the the  [ Single price grid component ](https://www.front
 - [Designs](#designs)
 - [Link](#links)
 - [Built With](#built-with)
-- [What I learned]((#what-i-learned))
+- [What I learned](#what-i-learned)
 - [Author](#author)
 - [About](#about)
 
