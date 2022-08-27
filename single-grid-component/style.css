@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Karla:wght@400;700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Karla', sans-serif;
+    background-color:  hsl(204, 43%, 93%);
+}
+.container {
+    max-width: 415px;
+    margin: 0 auto;
+    padding: 3.5em 0;
+ 
+}
+.content {
+    width: 85%;
+    margin: 0 auto;
+    border-radius: 0.5em;
+    overflow: hidden;
+    box-shadow: 0 2px 15px hsl(231, 6%, 77%)
+    ;
+}
+.component {
+   padding: 2em 1.5em;
+}
+.text {
+    background-color: white;
+}
+.text > h2 {
+    color:hsl(179, 62%, 43%);
+    margin-bottom: 1em;
+    font-size: 1.5rem;
+    font-weight: 700;
+ 
+}
+.text > h3 {
+    color:hsl(71, 73%, 54%);
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+.text > p{
+    color:hsl(218, 22%, 67%);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.8;
+}
+.price {
+    background-color:  hsl(179, 62%, 43%);
+}
+.price > h3 {
+    color: hsl(0, 0%, 100%);
+    font-size: 1.125rem;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+.price .amount {
+    display: flex;
+    align-items: center;
+    margin-bottom:0.5em ;
+}
+.price .amount > h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 2rem;
+    font-weight: 700;
+}
+.price .amount >  p{
+    color:  hsl(0, 0%, 86%);
+    font-size: 1.125rem;
+    font-weight: 400;
+    margin-left: 1em;
+}
+.price > p {
+    color:  hsl(204, 43%, 93%);
+    font-size: 1.125rem;
+    font-weight: 400;
+    margin-bottom: 1.5em;
+}
+.price .sign-up {
+    background-color:  hsl(71, 80%, 51%);
+    border-radius: 0.5em;
+    text-align: center;
+}
+.price .sign-up > p {
+    color:  hsl(0, 0%, 100%);
+    font-size: 1.125rem;
+    font-weight: 700;
+    padding: 0.9em;
+  
+}
+.why-us {
+    background-color:  rgba(42, 178, 176, 0.800) ;
+}
+.why-us > h3 {
+  color:  hsl(0, 0%, 100%);
+  font-size: 1.125rem;
+  font-weight: 700;
+  margin-bottom: 1em;
+
+}
+.why-us > p {
+    width: 62%;
+    color:  hsl(204, 43%, 93%);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.2;
+}
+@media only screen and (min-width:900px ) {
+    .container {
+        width: 80%;
+        max-width:800px;
+        padding: 10em 0 ;
+    }
+    .component{
+        padding: 3em 2em;
+    }
+    .text > p {
+        width: 90%;
+    }
+    .footer {
+        display: grid;
+        grid-template-columns: 1fr 1fr ;
+    }
+  
+}
