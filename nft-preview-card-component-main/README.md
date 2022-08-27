@@ -14,7 +14,7 @@ This is a Solution to the the  [ NFT preview card component  ](https://www.front
 
 ### Links 
 
-- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/NFT-preview-card-component/)
+- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/nft-preview-card-component-main/)
 
 ### Designs 
 
