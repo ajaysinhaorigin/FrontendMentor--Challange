@@ -14,7 +14,7 @@ This is a Solution to the the  [ 3-column preview card component  ](https://www.
 
 ### Links 
 
-- Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/single-grid-component/)
+- Live Site URL : [ 3-column preview card component ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/3-column-preview-card-component-main/)
 
 ### Designs 
 
