@@ -11,33 +11,32 @@ This is a Solution to the the  [ Testimonials grid section  ](https://www.fronte
 - [Author](#author)
 - [About](#about)
 
-### Links 
+### Links
 
 - Live Site URL : [ Four card feature section ](https://ajaysinhaorigin.github.io/FrontendMentor--Challange/testimonials-grid-section-main/)
 
-### Designs 
+### Designs
 
 ![Desktop design not found](./Desktop.jpeg)  
 
 ![Mobile design not found](./Mobile.jpeg)
 
-### Built with 
+### Built with
 
 - Semantic HTML5 markup  
 - CSS custom properties  
 - Grid
 
-### What I learned 
+### What I learned
 
-- CSS Grid 
+- CSS Grid
 - CSS Flex
-- CSS Media Quary 
+- CSS Media Quary
 
-### Author 
+### Author
 
 - Frontend Mentor  - [@ajaysinhaorigin](https://www.frontendmentor.io/profile/ajaysinhaorigin)
 
-### About 
+### About
 
 I was started to code just for Fun and now it Becomes my Passion. I am a Frontend Web-developer Working with ReactJS , Javascript , CSS , HTML .
-
